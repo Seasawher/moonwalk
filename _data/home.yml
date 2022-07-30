@@ -63,6 +63,9 @@ footer_entries:
   - title: github
     url: https://github.com/Seasawher
 
+  - title: hatena
+    url: https://seasawher.hatenablog.com/
+
   # - title: feed
   #   url: feed.xml
 
