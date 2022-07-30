@@ -9,31 +9,31 @@ navbar_entries:
   #   url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: 京大数学系院試解答
+    url: https://github.com/Seasawher/graduate_exam
+    desc: 京都大学数学系の院試の問題と解答をまとめたものです．
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: 数学の歩き方
+    url: https://seasawher.hatenablog.com/archive/category/%E6%95%B0%E5%AD%A6%E3%81%AE%E6%AD%A9%E3%81%8D%E6%96%B9
+    desc: 数学の各分野について，その前提知識と教科書と概要の情報をまとめようとしたプロジェクト．未完．
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  # - title: Project 3
+  #   url: overview-post
+  #   desc: You can control visibility from _config.yml file
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  # - title: Project 4
+  #   url: overview-post
+  #   desc: This project uses highlight markup, configured in _data/home.yml
+  #   highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  # - title: Project 5
+  #   url: overview-post
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  # - title: Project 6
+  #   url: overview-post
+  #   desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
